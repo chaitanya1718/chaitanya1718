@@ -25,7 +25,7 @@ Hi 👋, I'm Chaitanya
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
@@ -36,10 +36,12 @@ Hi 👋, I'm Chaitanya
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge\&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge\&logo=django)
 
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL?style=for-the-badge\&logo=postgresql)
 
 ### Tools
 
@@ -81,15 +83,15 @@ Collection of **30 JavaScript mini projects** built to improve JavaScript skills
 
 ## 📊 GitHub Stats
 
-![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanya1718\&show_icons=true\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya1718\&layout=compact)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com/?user=chaitanya1718)
 
 ---
 
