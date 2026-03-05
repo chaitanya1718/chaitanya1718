@@ -48,7 +48,7 @@ Hi 👋, I'm Chaitanya
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
-
+![Post Man](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=Postman)
 ---
 
 ## 📌 Featured Projects
@@ -81,14 +81,6 @@ Collection of **30 JavaScript mini projects** built to improve JavaScript skills
 
 ---
 
-## 📊 GitHub Stats
-
-![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanya1718\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya1718\&layout=compact)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chaitanya1718)
@@ -106,10 +98,10 @@ Collection of **30 JavaScript mini projects** built to improve JavaScript skills
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/YOUR_LINK
-Portfolio: https://yourportfolio.com
-Email: [yourmail@email.com](mailto:yourmail@email.com)
+LinkedIn: https://linkedin.com/in/chaitanyagollavilli/
+Portfolio: 
+Email: [chaitanyag1718@email.com](mailto:chaitanyag1718@gmail.com)
 
 ---
 
-⭐ *From [Chaitanya](https://github.com/YOUR_USERNAME)*
+⭐ *From [Chaitanya](https://github.com/chaitanya1718)*
